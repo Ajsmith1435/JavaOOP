@@ -1,2 +1,2 @@
 # Java
-## Some Java projects from self-learning and MOOCs
+### Some Java projects from self-learning and MOOCs
